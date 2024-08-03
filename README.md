@@ -11,7 +11,7 @@ sudo apt install docker.io
 ### Installing Docker on Windows
 
 1. **Download Docker Desktop:**
-    - Visit the [Docker Desktop for Windows](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe) download page.
+    - Install the Docker Desktop for Windows by clicking [HERE](https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe).
     - Download the Docker Desktop installer.
 
 2. **Install Docker Desktop:**
